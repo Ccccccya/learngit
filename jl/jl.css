@@ -120,9 +120,13 @@
 	font-size: 14px;
 }
 .box1-1 p{
-	margin-left: 50px;
+	margin-left: 5px;
 	display: inline-block;
 	font-weight: bold;
+}
+
+.box1-1 button{
+	margin-left: 110px;
 }
 
 .box1-2{
